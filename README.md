@@ -77,8 +77,7 @@ Simple-Chat-Bot/
 ## ⚙️ How to Run
 
 1. **Clone this repository:**
-   ```bash
-  git clone https://github.com/v44-s/Simple-Chat-Bot.git
+   ```bash git clone https://github.com/v44-s/Simple-Chat-Bot.git
 
 2. Navigate into the project directory:	
    cd Simple-Chat-Bot
