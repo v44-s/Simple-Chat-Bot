@@ -50,8 +50,11 @@ Why do we use methods?
 4.	To interrupt the execution of a program.
 
 > 4
+
 Please, try again.
+
 > 2
+
 Congratulations, have a nice day!
 
 ---
